@@ -9,7 +9,8 @@ int main()
 	eng = 100;
 	kor = 90;
 	sum = 80 + 100 + 90;
-
+	printf("add 1\n");
+	int a;
 	printf("add something\n");
 	printf("This program print report card.\n");
 
