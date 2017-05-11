@@ -3,12 +3,12 @@
 int main()
 {
 
-	//new during forks...
+	//new duringSSS forks...
 	//....
 	
 	//...
 	
-	//first fork;
+	//firsSSt fork;
 
 	int kor, eng, math;
 	int sum = 0;
