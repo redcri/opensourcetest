@@ -2,18 +2,11 @@
 
 int main()
 {
-
-	//new during forks...
-	//....
 	
-	//...
-	
-	//first fork;
 
 	int kor, eng, math;
 	int sum = 0;
 
-	/...
 	math = 80;
 	eng = 100;
 	kor = 90;
