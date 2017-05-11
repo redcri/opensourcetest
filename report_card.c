@@ -2,6 +2,9 @@
 
 int main()
 {
+
+	//first fork;
+
 	int kor, eng, math;
 	int sum = 0;
 
@@ -19,4 +22,6 @@ int main()
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
 	return 0;
+
+
 }
